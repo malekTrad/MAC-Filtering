@@ -1,0 +1,54 @@
+﻿Installation de l'assembly 'C:\Users\Administrateur\Desktop\larguech\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Users\Administrateur\Desktop\larguech\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\Administrateur\Desktop\larguech\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Impossible de créer une instance du type du programme d'installation WindowsService1.ProjectInstaller.
+System.Reflection.TargetInvocationException: Une exception a été levée par la cible d'un appel.
+L'exception interne System.NullReferenceException a été levée avec le message d'erreur suivant : La référence d'objet n'est pas définie à une instance d'un objet..
+Restauration de l'assembly 'C:\Users\Administrateur\Desktop\larguech\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Users\Administrateur\Desktop\larguech\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\Administrateur\Desktop\larguech\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Impossible de créer une instance du type du programme d'installation WindowsService1.ProjectInstaller.
+System.Reflection.TargetInvocationException: Une exception a été levée par la cible d'un appel.
+L'exception interne System.NullReferenceException a été levée avec le message d'erreur suivant : La référence d'objet n'est pas définie à une instance d'un objet..
+Installation de l'assembly 'C:\Users\Administrateur\Desktop\larguech\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Users\Administrateur\Desktop\larguech\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\Administrateur\Desktop\larguech\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Impossible de créer une instance du type du programme d'installation WindowsService1.ProjectInstaller.
+System.Reflection.TargetInvocationException: Une exception a été levée par la cible d'un appel.
+L'exception interne System.NullReferenceException a été levée avec le message d'erreur suivant : La référence d'objet n'est pas définie à une instance d'un objet..
+Restauration de l'assembly 'C:\Users\Administrateur\Desktop\larguech\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Users\Administrateur\Desktop\larguech\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\Administrateur\Desktop\larguech\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Impossible de créer une instance du type du programme d'installation WindowsService1.ProjectInstaller.
+System.Reflection.TargetInvocationException: Une exception a été levée par la cible d'un appel.
+L'exception interne System.NullReferenceException a été levée avec le message d'erreur suivant : La référence d'objet n'est pas définie à une instance d'un objet..
+Installation de l'assembly 'C:\Users\Administrateur\Desktop\larguech\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Users\Administrateur\Desktop\larguech\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\Administrateur\Desktop\larguech\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Installation du service Service1 en cours...
+Le service Service1 a été installé avec succès.
+Création d'une source EventLog Service1 dans le journal Application...
+Validation de l'assembly 'C:\Users\Administrateur\Desktop\larguech\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Users\Administrateur\Desktop\larguech\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\Administrateur\Desktop\larguech\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Désinstallation de l'assembly 'C:\Users\Administrateur\Desktop\larguech\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Users\Administrateur\Desktop\larguech\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\Administrateur\Desktop\larguech\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Suppression de la source EventLog Service1.
+Le service Service1 est en cours de suppression du système...
+Le service Service1 a été retiré avec succès du système.
+Tentative d'arrêt du service Service1.

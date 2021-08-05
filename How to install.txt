@@ -1,0 +1,3 @@
+run cmd as admin
+cd C:\Windows\Microsoft.NET\Framework\v4.0.30319
+InstallUtil.exe C:\Users\Administrateur\Desktop\ServiceMac\WindowsService1\bin\Debug\ServiceMacTrad.exe

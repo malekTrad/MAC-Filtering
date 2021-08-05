@@ -1,0 +1,16 @@
+//retrieve the ip adresse of the client 
+Dim adrip As String
+adrip = Request.ServerVariables("REMOTE_ADDR")
+
+//create connection with the client console application ussing the ip adresse retrieved  
+Dim sck As Socket = New Socket(AddressFamily.InterNetwork, SocketType.Stream, ProtocolType.Tcp)
+Dim endPoint As IPEndPoint = New IPEndPoint(IPAddress.Parse(adrip), 9050)
+sck.Connect(endPoint)      
+Dim b As Byte() = New Byte(99) {}
+Dim k As Integer = sck.Receive(b)
+lblmac.text=UnicodeBytesToString(b)
+
+'*****convert bytes from the message received from the socket to string******
+Private Function UnicodeBytesToString(ByVal bytes() As Byte) As String
+Return System.Text.Encoding.Default.GetString(bytes)
+End Function

@@ -1,0 +1,8 @@
+C:\Users\Administrateur\Desktop\larguech\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+C:\Users\Administrateur\Desktop\larguech\WindowsService1\WindowsService1\obj\Debug\WindowsService1.ProjectInstaller.resources
+C:\Users\Administrateur\Desktop\larguech\WindowsService1\WindowsService1\obj\Debug\ServiceMac.csproj.GenerateResource.Cache
+C:\Users\Administrateur\Desktop\larguech\WindowsService1\WindowsService1\bin\Debug\ServiceMacTrad.exe.config
+C:\Users\Administrateur\Desktop\larguech\WindowsService1\WindowsService1\bin\Debug\ServiceMacTrad.exe
+C:\Users\Administrateur\Desktop\larguech\WindowsService1\WindowsService1\bin\Debug\ServiceMacTrad.pdb
+C:\Users\Administrateur\Desktop\larguech\WindowsService1\WindowsService1\obj\Debug\ServiceMacTrad.exe
+C:\Users\Administrateur\Desktop\larguech\WindowsService1\WindowsService1\obj\Debug\ServiceMacTrad.pdb

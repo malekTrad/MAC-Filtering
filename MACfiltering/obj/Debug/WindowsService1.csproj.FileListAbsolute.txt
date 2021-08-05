@@ -1,0 +1,7 @@
+C:\Users\Administrateur\Desktop\larguech\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe.config
+C:\Users\Administrateur\Desktop\larguech\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+C:\Users\Administrateur\Desktop\larguech\WindowsService1\WindowsService1\bin\Debug\WindowsService1.pdb
+C:\Users\Administrateur\Desktop\larguech\WindowsService1\WindowsService1\obj\Debug\WindowsService1.ProjectInstaller.resources
+C:\Users\Administrateur\Desktop\larguech\WindowsService1\WindowsService1\obj\Debug\WindowsService1.csproj.GenerateResource.Cache
+C:\Users\Administrateur\Desktop\larguech\WindowsService1\WindowsService1\obj\Debug\WindowsService1.exe
+C:\Users\Administrateur\Desktop\larguech\WindowsService1\WindowsService1\obj\Debug\WindowsService1.pdb
